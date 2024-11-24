@@ -1,0 +1,10 @@
+.title{
+    padding-bottom: 10px;
+}
+.pokemon-info {
+    max-width: 35%;
+    display: flex;
+    padding-bottom: 10px;
+    justify-content: space-between;
+    align-items: center;
+}
